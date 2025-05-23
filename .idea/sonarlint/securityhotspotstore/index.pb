@@ -7,3 +7,5 @@ Q
 !contracts/buyer-verification.clar,8/2/8246d577ee761156732eb0385d5d2dffa0e63755
 S
 #contracts/invoice-verification.clar,3/e/3e8da7caca18da2e5ffb9e595d849bf41f4c16b1
+U
+%contracts/credit-risk-assessment.clar,0/1/015ee3b71d00c5f50148afffe9caaaaf900ee4c8

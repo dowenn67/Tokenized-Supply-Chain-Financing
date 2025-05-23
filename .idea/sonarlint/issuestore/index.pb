@@ -9,3 +9,11 @@ S
 #contracts/invoice-verification.clar,3/e/3e8da7caca18da2e5ffb9e595d849bf41f4c16b1
 U
 %contracts/credit-risk-assessment.clar,0/1/015ee3b71d00c5f50148afffe9caaaaf900ee4c8
+F
+contracts/funding.clar,1/1/1166a5f258cb79f7c9242c10345512d0db3e4dee
+E
+tests/funding.test.ts,1/5/154f0d219979dbd684aedb90a411e54a10b3e0bd
+R
+"tests/invoice-verification.test.ts,8/e/8e58b1d3a6898b5a6467dfbc033f09aaae8e0a6e
+S
+#tests/supplier-verification.test.ts,1/3/137832f501dab1372390b8c0c1f565fff2cae64d

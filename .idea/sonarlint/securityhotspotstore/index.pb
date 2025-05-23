@@ -5,3 +5,5 @@ T
 $contracts/supplier-verification.clar,1/e/1eeafa16bd5f2c0aa8a2cf22d6d886e3463492c6
 Q
 !contracts/buyer-verification.clar,8/2/8246d577ee761156732eb0385d5d2dffa0e63755
+S
+#contracts/invoice-verification.clar,3/e/3e8da7caca18da2e5ffb9e595d849bf41f4c16b1

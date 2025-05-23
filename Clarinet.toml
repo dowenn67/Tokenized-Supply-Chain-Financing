@@ -10,6 +10,11 @@ path = 'contracts/buyer-verification.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.invoice-verification]
+path = 'contracts/invoice-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.supplier-verification]
 path = 'contracts/supplier-verification.clar'
 clarity_version = 2
